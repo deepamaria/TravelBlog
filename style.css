@@ -172,3 +172,15 @@ width: 100%;
   align-items: center;
   padding: 0 10px;
 }
+
+/* to make the website responsive to laptops */
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  ion-icon {
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+}
