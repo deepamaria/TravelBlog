@@ -65,7 +65,7 @@ body{
     text-align: left;
     gap: 20px;
 
-    
+    line-height: 1.5em;
 
     padding: 40px;
   }
@@ -138,6 +138,11 @@ ion-icon {
     justify-content: center;
     align-items: center;
     text-align: justify;
+
+    
+    line-height: 1.5em;
+
+    padding: 40px;
   }
  .images_1 {
   width: 100%;
