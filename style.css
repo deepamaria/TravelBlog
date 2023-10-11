@@ -60,9 +60,14 @@ body{
     display: flex;
     flex-direction: column;
 
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    text-align: left;
     gap: 20px;
+
+    
+
+    padding: 40px;
   }
   .intro {
     /* height: 30%; */
